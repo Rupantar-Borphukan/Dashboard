@@ -1,5 +1,5 @@
 # To Start the platform, see the below command.
-Build on Reactjs.
+It is build on Reactjs.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
